@@ -1,14 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A56DB,100:7C5CFC&height=200&section=header&text=Muhammad%20Bilal%20Ahsan&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Developer&descAlignY=58&descSize=20&descColor=ffffff"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🌍 Islamabad, Pakistan &nbsp;|&nbsp; 📱 Flutter Developer &nbsp;|&nbsp; 🔥 Firebase Expert
+# Muhammad Bilal Ahsan
+### Flutter Developer | Firebase | Dart | Mobile Apps
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilal-ahsan-2a97b5299)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bilalahsan08.github.io)
@@ -77,21 +70,7 @@
 
 <div align="center">
 
-![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bilalahsan08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalahsan08&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bilalahsan08&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=bilalahsan08&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
@@ -100,7 +79,5 @@
 <div align="center">
 
 ### 💡 *"Clean code. Scalable apps. Real users."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFC,100:1A56DB&height=100&section=footer"/>
 
 </div>
