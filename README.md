@@ -16,7 +16,7 @@
 > *Flutter Developer with hands-on professional experience building and deploying production-ready cross-platform mobile applications.*
 
 - 💼 Currently working at **Khastech Solutions**, Islamabad
-- 📦 Shipped apps to **Google Play Store**, **Apple App Store** & **Huawei AppGallery**
+- 📦 Shipped apps to **Google Play Store** & **Apple App Store**
 - 🎓 BS Computer Science — PMAS Arid Agriculture University **2025**
 - 🏅 **Huawei Cloud Tech Essentials** Certified
 - 🤖 Active user of **GitHub Copilot**, **ChatGPT**, **Claude** & **Kiro**
@@ -43,7 +43,6 @@
 ### 🛒 Store Deployment
 ![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 ![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
-![Huawei](https://img.shields.io/badge/Huawei%20AppGallery-CF0A2C?style=for-the-badge&logo=huawei&logoColor=white)
 
 ### 🔧 Tools & AI
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -58,9 +57,9 @@
 
 | 🚀 App | 📋 Description | 🏪 Platforms |
 |---|---|---|
-| **SplitBeat** | AI Vocal Remover | ▶️ Play Store • 🍎 App Store • 🔴 AppGallery |
-| **CineLens** | Movie Discovery Platform | ▶️ Play Store • 🍎 App Store • 🔴 AppGallery |
-| **Future Face** | AI Photo Transformation | ▶️ Play Store • 🔴 AppGallery |
+| **SplitBeat** | AI Vocal Remover | ▶️ Play Store • 🍎 App Store |
+| **CineLens** | Movie Discovery Platform | ▶️ Play Store • 🍎 App Store |
+| **Future Face** | AI Photo Transformation | ▶️ Play Store |
 | **VR Video Converter** | Cross-platform Video Converter | ▶️ Play Store |
 | **Fit Fusion** | Fitness & Wellness App | 🎓 Final Year Project |
 
