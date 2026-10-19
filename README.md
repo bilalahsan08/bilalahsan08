@@ -13,14 +13,14 @@
 
 ## 🧑‍💻 About Me
 
-> *Flutter Developer with hands-on professional experience building and deploying production-ready cross-platform mobile applications.*
+> *Flutter Developer with professional experience building production-ready AI-powered, audio processing, and creative tools apps.*
 
 - 💼 Currently working at **Khastech Solutions**, Islamabad
 - 📦 Shipped apps to **Google Play Store** & **Apple App Store**
 - 🎓 BS Computer Science — PMAS Arid Agriculture University **2025**
 - 🏅 **Huawei Cloud Tech Essentials** Certified
 - 🤖 Active user of **GitHub Copilot**, **ChatGPT**, **Claude** & **Kiro**
-- 💬 Ask me about **Flutter, Firebase, REST APIs, GetX**
+- 💬 Ask me about **Flutter, Firebase, REST APIs, GetX, Clean Architecture**
 
 ---
 
@@ -40,6 +40,10 @@
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge&logo=dart&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
 
+### 💰 Monetization
+![AdMob](https://img.shields.io/badge/AdMob-EA4335?style=for-the-badge&logo=google&logoColor=white)
+![IAP](https://img.shields.io/badge/In--App%20Purchases-34A853?style=for-the-badge&logo=google-play&logoColor=white)
+
 ### 🛒 Store Deployment
 ![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 ![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
@@ -57,10 +61,18 @@
 
 | 🚀 App | 📋 Description | 🏪 Platforms |
 |---|---|---|
-| **SplitBeat** | AI Vocal Remover | ▶️ Play Store • 🍎 App Store |
-| **CineLens** | Movie Discovery Platform | ▶️ Play Store • 🍎 App Store |
-| **Future Face** | AI Photo Transformation | ▶️ Play Store |
-| **VR Video Converter** | Cross-platform Video Converter | ▶️ Play Store |
+| **SplitBeat** | AI Audio Separator & Music Studio | ▶️ Play Store • 🍎 App Store |
+| **Color Magic** | AI Colorizer & Editor | ▶️ Play Store |
+| **Poster Maker** | Multi-layer Graphic Design App | ▶️ Play Store |
+| **Sticker Maker & GIF Studio** | WhatsApp Sticker & GIF Creator | ▶️ Play Store |
+
+---
+
+## 🧪 Personal Projects
+
+| 🚀 Project | 📋 Description | 🔗 Link |
+|---|---|---|
+| **Weather AI** | Flutter weather app with Gemini AI suggestions | [GitHub](https://github.com/bilalahsan08/weather-ai) |
 | **Fit Fusion** | Fitness & Wellness App | 🎓 Final Year Project |
 
 ---
